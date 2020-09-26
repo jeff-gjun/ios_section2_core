@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name          = "iOS_Section2_Core"
-  spec.version       = "0.0.2"
+  spec.version       = "0.0.4"
   spec.summary       = "巨匠課程第二階"
   spec.description   = <<-DESC
   此為課程範例函式庫，目的在於快速集成資源檔案，而對於學員因為沒有參與到線上課程，也可避免事後補課時查找素材檔案的麻煩。
