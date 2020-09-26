@@ -12,6 +12,6 @@ Pod::Spec.new do |spec|
   spec.platform      = :ios, "10.0"
   spec.swift_version = "5.0"
   spec.source        = { :git => "https://github.com/jeff-gjun/ios_section2_core.git", :tag => "#{spec.version}" }
-  spec.source_files  = "iOS-Section2-Core/SourceCode/**/*.{swift}"
+  spec.source_files  = "iOS-Section2-Core/SourceCode/**/*.{swift}", "iOS-Section2-Core/Resource/**/*.{plist}"
 
 end
