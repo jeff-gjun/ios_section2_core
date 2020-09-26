@@ -1,0 +1,11 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'SampleWithRemoteModule' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for SampleWithRemoteModule
+#  pod 'iOS_Section2_Core', :git => 'https://github.com/jeff-gjun/ios_section2_core.git'
+
+end
