@@ -18,6 +18,88 @@
 		1FCB6363251F38B500AB7A6C /* PresidentDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FCB6362251F38B500AB7A6C /* PresidentDataSource.swift */; };
 		1FCB6367251F3D5100AB7A6C /* presidents.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB6366251F3D5100AB7A6C /* presidents.plist */; };
 		1FCB636A251F3D8A00AB7A6C /* CityDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FCB6369251F3D8A00AB7A6C /* CityDataSource.swift */; };
+		1FCB63EC251F6F1200AB7A6C /* Montreal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB639B251F6F1200AB7A6C /* Montreal.jpg */; };
+		1FCB63ED251F6F1200AB7A6C /* Houston.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB639C251F6F1200AB7A6C /* Houston.jpg */; };
+		1FCB63EE251F6F1200AB7A6C /* MountainView.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB639D251F6F1200AB7A6C /* MountainView.jpg */; };
+		1FCB63EF251F6F1200AB7A6C /* Shenyang.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB639E251F6F1200AB7A6C /* Shenyang.jpg */; };
+		1FCB63F0251F6F1200AB7A6C /* Paris.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB639F251F6F1200AB7A6C /* Paris.jpg */; };
+		1FCB63F1251F6F1200AB7A6C /* Munich.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63A0251F6F1200AB7A6C /* Munich.jpg */; };
+		1FCB63F2251F6F1200AB7A6C /* Shanghai.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63A1251F6F1200AB7A6C /* Shanghai.jpg */; };
+		1FCB63F3251F6F1200AB7A6C /* Shibuya.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63A2251F6F1200AB7A6C /* Shibuya.jpg */; };
+		1FCB63F4251F6F1200AB7A6C /* Victoria.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63A3251F6F1200AB7A6C /* Victoria.jpg */; };
+		1FCB63F5251F6F1200AB7A6C /* Birmingham.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63A4251F6F1200AB7A6C /* Birmingham.jpg */; };
+		1FCB63F6251F6F1200AB7A6C /* Chiba.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63A5251F6F1200AB7A6C /* Chiba.jpg */; };
+		1FCB63F7251F6F1200AB7A6C /* Ginza.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63A6251F6F1200AB7A6C /* Ginza.jpg */; };
+		1FCB63F8251F6F1200AB7A6C /* Seattle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63A7251F6F1200AB7A6C /* Seattle.jpg */; };
+		1FCB63F9251F6F1200AB7A6C /* Osaka.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63A8251F6F1200AB7A6C /* Osaka.jpg */; };
+		1FCB63FA251F6F1200AB7A6C /* Tainan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63A9251F6F1200AB7A6C /* Tainan.jpg */; };
+		1FCB63FB251F6F1200AB7A6C /* Taichung.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63AA251F6F1200AB7A6C /* Taichung.jpg */; };
+		1FCB63FC251F6F1200AB7A6C /* Nanjing.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63AB251F6F1200AB7A6C /* Nanjing.jpg */; };
+		1FCB63FD251F6F1200AB7A6C /* Sumida.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63AC251F6F1200AB7A6C /* Sumida.jpg */; };
+		1FCB63FE251F6F1200AB7A6C /* Akihabara.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63AD251F6F1200AB7A6C /* Akihabara.jpg */; };
+		1FCB63FF251F6F1200AB7A6C /* Kobe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63AE251F6F1200AB7A6C /* Kobe.jpg */; };
+		1FCB6400251F6F1200AB7A6C /* Washington.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63AF251F6F1200AB7A6C /* Washington.jpg */; };
+		1FCB6401251F6F1200AB7A6C /* Tianjin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63B0251F6F1200AB7A6C /* Tianjin.jpg */; };
+		1FCB6402251F6F1200AB7A6C /* Wells.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63B1251F6F1200AB7A6C /* Wells.jpg */; };
+		1FCB6403251F6F1200AB7A6C /* Beijing.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63B2251F6F1200AB7A6C /* Beijing.jpg */; };
+		1FCB6404251F6F1200AB7A6C /* London.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63B3251F6F1200AB7A6C /* London.jpg */; };
+		1FCB6405251F6F1200AB7A6C /* LosAngeles.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63B4251F6F1200AB7A6C /* LosAngeles.jpg */; };
+		1FCB6406251F6F1200AB7A6C /* PaloAlto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63B5251F6F1200AB7A6C /* PaloAlto.jpg */; };
+		1FCB6407251F6F1200AB7A6C /* Berlin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63B6251F6F1200AB7A6C /* Berlin.jpg */; };
+		1FCB6408251F6F1200AB7A6C /* BuenosAires.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63B7251F6F1200AB7A6C /* BuenosAires.jpg */; };
+		1FCB6409251F6F1200AB7A6C /* Chicago.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63B8251F6F1200AB7A6C /* Chicago.jpg */; };
+		1FCB640A251F6F1200AB7A6C /* Oxford.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63B9251F6F1200AB7A6C /* Oxford.jpg */; };
+		1FCB640B251F6F1200AB7A6C /* Auckland.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63BA251F6F1200AB7A6C /* Auckland.jpg */; };
+		1FCB640C251F6F1200AB7A6C /* Rome.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63BB251F6F1200AB7A6C /* Rome.jpg */; };
+		1FCB640D251F6F1200AB7A6C /* Ikebukuro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63BC251F6F1200AB7A6C /* Ikebukuro.jpg */; };
+		1FCB640E251F6F1200AB7A6C /* Barcelona.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63BD251F6F1200AB7A6C /* Barcelona.jpg */; };
+		1FCB640F251F6F1200AB7A6C /* Guangzhou.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63BE251F6F1200AB7A6C /* Guangzhou.jpg */; };
+		1FCB6410251F6F1200AB7A6C /* Ueno.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63BF251F6F1200AB7A6C /* Ueno.jpg */; };
+		1FCB6411251F6F1200AB7A6C /* Shinagawa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63C0251F6F1200AB7A6C /* Shinagawa.jpg */; };
+		1FCB6412251F6F1200AB7A6C /* Edinburgh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63C1251F6F1200AB7A6C /* Edinburgh.jpg */; };
+		1FCB6413251F6F1200AB7A6C /* SaoPaulo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63C2251F6F1200AB7A6C /* SaoPaulo.jpg */; };
+		1FCB6414251F6F1200AB7A6C /* Nagoya.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63C3251F6F1200AB7A6C /* Nagoya.jpg */; };
+		1FCB6415251F6F1200AB7A6C /* Chongqing.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63C4251F6F1200AB7A6C /* Chongqing.jpg */; };
+		1FCB6416251F6F1200AB7A6C /* Hualien.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63C5251F6F1200AB7A6C /* Hualien.jpg */; };
+		1FCB6417251F6F1200AB7A6C /* Kaohsiung.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63C6251F6F1200AB7A6C /* Kaohsiung.jpg */; };
+		1FCB6418251F6F1200AB7A6C /* Milan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63C7251F6F1200AB7A6C /* Milan.jpg */; };
+		1FCB6419251F6F1200AB7A6C /* Salvador.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63C8251F6F1200AB7A6C /* Salvador.jpg */; };
+		1FCB641A251F6F1200AB7A6C /* Boston.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63C9251F6F1200AB7A6C /* Boston.jpg */; };
+		1FCB641B251F6F1200AB7A6C /* Canberra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63CA251F6F1200AB7A6C /* Canberra.jpg */; };
+		1FCB641C251F6F1200AB7A6C /* Florence.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63CB251F6F1200AB7A6C /* Florence.jpg */; };
+		1FCB641D251F6F1200AB7A6C /* Cologne.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63CC251F6F1200AB7A6C /* Cologne.jpg */; };
+		1FCB641E251F6F1200AB7A6C /* Wuhan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63CD251F6F1200AB7A6C /* Wuhan.jpg */; };
+		1FCB641F251F6F1200AB7A6C /* Westminster.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63CE251F6F1200AB7A6C /* Westminster.jpg */; };
+		1FCB6420251F6F1200AB7A6C /* Shinjuku.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63CF251F6F1200AB7A6C /* Shinjuku.jpg */; };
+		1FCB6421251F6F1200AB7A6C /* Sydney.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63D0251F6F1200AB7A6C /* Sydney.jpg */; };
+		1FCB6422251F6F1200AB7A6C /* Tokyo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63D1251F6F1200AB7A6C /* Tokyo.jpg */; };
+		1FCB6423251F6F1200AB7A6C /* Liverpool.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63D2251F6F1200AB7A6C /* Liverpool.jpg */; };
+		1FCB6424251F6F1200AB7A6C /* Leeds.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63D3251F6F1200AB7A6C /* Leeds.jpg */; };
+		1FCB6425251F6F1200AB7A6C /* Wellington.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63D4251F6F1200AB7A6C /* Wellington.jpg */; };
+		1FCB6426251F6F1200AB7A6C /* NewYork.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63D5251F6F1200AB7A6C /* NewYork.jpg */; };
+		1FCB6427251F6F1300AB7A6C /* Vancouver.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63D6251F6F1200AB7A6C /* Vancouver.jpg */; };
+		1FCB6428251F6F1300AB7A6C /* Marseille.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63D7251F6F1200AB7A6C /* Marseille.jpg */; };
+		1FCB6429251F6F1300AB7A6C /* Lyon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63D8251F6F1200AB7A6C /* Lyon.jpg */; };
+		1FCB642A251F6F1300AB7A6C /* Frankfurt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63D9251F6F1200AB7A6C /* Frankfurt.jpg */; };
+		1FCB642B251F6F1300AB7A6C /* KualaLumpur.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63DA251F6F1200AB7A6C /* KualaLumpur.jpg */; };
+		1FCB642C251F6F1300AB7A6C /* SanFrancisco.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63DB251F6F1200AB7A6C /* SanFrancisco.jpg */; };
+		1FCB642D251F6F1300AB7A6C /* Madrid.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63DC251F6F1200AB7A6C /* Madrid.jpg */; };
+		1FCB642E251F6F1300AB7A6C /* Philadelphia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63DD251F6F1200AB7A6C /* Philadelphia.jpg */; };
+		1FCB642F251F6F1300AB7A6C /* Toronto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63DE251F6F1200AB7A6C /* Toronto.jpg */; };
+		1FCB6430251F6F1300AB7A6C /* Cupertino.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63DF251F6F1200AB7A6C /* Cupertino.jpg */; };
+		1FCB6431251F6F1300AB7A6C /* Sapporo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63E0251F6F1200AB7A6C /* Sapporo.jpg */; };
+		1FCB6432251F6F1300AB7A6C /* Yokohama.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63E1251F6F1200AB7A6C /* Yokohama.jpg */; };
+		1FCB6433251F6F1300AB7A6C /* Meguro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63E2251F6F1200AB7A6C /* Meguro.jpg */; };
+		1FCB6434251F6F1300AB7A6C /* RioDeJaneiro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63E3251F6F1200AB7A6C /* RioDeJaneiro.jpg */; };
+		1FCB6435251F6F1300AB7A6C /* Singapore.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63E4251F6F1200AB7A6C /* Singapore.jpg */; };
+		1FCB6436251F6F1300AB7A6C /* Manchester.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63E5251F6F1200AB7A6C /* Manchester.jpg */; };
+		1FCB6437251F6F1300AB7A6C /* Miami.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63E6251F6F1200AB7A6C /* Miami.jpg */; };
+		1FCB6438251F6F1300AB7A6C /* HongKong.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63E7251F6F1200AB7A6C /* HongKong.jpg */; };
+		1FCB6439251F6F1300AB7A6C /* Hamburg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63E8251F6F1200AB7A6C /* Hamburg.jpg */; };
+		1FCB643A251F6F1300AB7A6C /* Narita.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63E9251F6F1200AB7A6C /* Narita.jpg */; };
+		1FCB643B251F6F1300AB7A6C /* Kyoto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63EA251F6F1200AB7A6C /* Kyoto.jpg */; };
+		1FCB643C251F6F1300AB7A6C /* Taipei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63EB251F6F1200AB7A6C /* Taipei.jpg */; };
+		1FCB6441251F6FE700AB7A6C /* ModuleBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FCB6440251F6FE700AB7A6C /* ModuleBundle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +116,88 @@
 		1FCB6362251F38B500AB7A6C /* PresidentDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresidentDataSource.swift; sourceTree = "<group>"; };
 		1FCB6366251F3D5100AB7A6C /* presidents.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = presidents.plist; sourceTree = "<group>"; };
 		1FCB6369251F3D8A00AB7A6C /* CityDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityDataSource.swift; sourceTree = "<group>"; };
+		1FCB639B251F6F1200AB7A6C /* Montreal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Montreal.jpg; sourceTree = "<group>"; };
+		1FCB639C251F6F1200AB7A6C /* Houston.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Houston.jpg; sourceTree = "<group>"; };
+		1FCB639D251F6F1200AB7A6C /* MountainView.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = MountainView.jpg; sourceTree = "<group>"; };
+		1FCB639E251F6F1200AB7A6C /* Shenyang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Shenyang.jpg; sourceTree = "<group>"; };
+		1FCB639F251F6F1200AB7A6C /* Paris.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Paris.jpg; sourceTree = "<group>"; };
+		1FCB63A0251F6F1200AB7A6C /* Munich.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Munich.jpg; sourceTree = "<group>"; };
+		1FCB63A1251F6F1200AB7A6C /* Shanghai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Shanghai.jpg; sourceTree = "<group>"; };
+		1FCB63A2251F6F1200AB7A6C /* Shibuya.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Shibuya.jpg; sourceTree = "<group>"; };
+		1FCB63A3251F6F1200AB7A6C /* Victoria.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Victoria.jpg; sourceTree = "<group>"; };
+		1FCB63A4251F6F1200AB7A6C /* Birmingham.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Birmingham.jpg; sourceTree = "<group>"; };
+		1FCB63A5251F6F1200AB7A6C /* Chiba.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Chiba.jpg; sourceTree = "<group>"; };
+		1FCB63A6251F6F1200AB7A6C /* Ginza.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ginza.jpg; sourceTree = "<group>"; };
+		1FCB63A7251F6F1200AB7A6C /* Seattle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Seattle.jpg; sourceTree = "<group>"; };
+		1FCB63A8251F6F1200AB7A6C /* Osaka.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Osaka.jpg; sourceTree = "<group>"; };
+		1FCB63A9251F6F1200AB7A6C /* Tainan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Tainan.jpg; sourceTree = "<group>"; };
+		1FCB63AA251F6F1200AB7A6C /* Taichung.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Taichung.jpg; sourceTree = "<group>"; };
+		1FCB63AB251F6F1200AB7A6C /* Nanjing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nanjing.jpg; sourceTree = "<group>"; };
+		1FCB63AC251F6F1200AB7A6C /* Sumida.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sumida.jpg; sourceTree = "<group>"; };
+		1FCB63AD251F6F1200AB7A6C /* Akihabara.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Akihabara.jpg; sourceTree = "<group>"; };
+		1FCB63AE251F6F1200AB7A6C /* Kobe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kobe.jpg; sourceTree = "<group>"; };
+		1FCB63AF251F6F1200AB7A6C /* Washington.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Washington.jpg; sourceTree = "<group>"; };
+		1FCB63B0251F6F1200AB7A6C /* Tianjin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Tianjin.jpg; sourceTree = "<group>"; };
+		1FCB63B1251F6F1200AB7A6C /* Wells.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Wells.jpg; sourceTree = "<group>"; };
+		1FCB63B2251F6F1200AB7A6C /* Beijing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Beijing.jpg; sourceTree = "<group>"; };
+		1FCB63B3251F6F1200AB7A6C /* London.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = London.jpg; sourceTree = "<group>"; };
+		1FCB63B4251F6F1200AB7A6C /* LosAngeles.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LosAngeles.jpg; sourceTree = "<group>"; };
+		1FCB63B5251F6F1200AB7A6C /* PaloAlto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PaloAlto.jpg; sourceTree = "<group>"; };
+		1FCB63B6251F6F1200AB7A6C /* Berlin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Berlin.jpg; sourceTree = "<group>"; };
+		1FCB63B7251F6F1200AB7A6C /* BuenosAires.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BuenosAires.jpg; sourceTree = "<group>"; };
+		1FCB63B8251F6F1200AB7A6C /* Chicago.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Chicago.jpg; sourceTree = "<group>"; };
+		1FCB63B9251F6F1200AB7A6C /* Oxford.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Oxford.jpg; sourceTree = "<group>"; };
+		1FCB63BA251F6F1200AB7A6C /* Auckland.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Auckland.jpg; sourceTree = "<group>"; };
+		1FCB63BB251F6F1200AB7A6C /* Rome.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Rome.jpg; sourceTree = "<group>"; };
+		1FCB63BC251F6F1200AB7A6C /* Ikebukuro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ikebukuro.jpg; sourceTree = "<group>"; };
+		1FCB63BD251F6F1200AB7A6C /* Barcelona.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Barcelona.jpg; sourceTree = "<group>"; };
+		1FCB63BE251F6F1200AB7A6C /* Guangzhou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Guangzhou.jpg; sourceTree = "<group>"; };
+		1FCB63BF251F6F1200AB7A6C /* Ueno.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ueno.jpg; sourceTree = "<group>"; };
+		1FCB63C0251F6F1200AB7A6C /* Shinagawa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Shinagawa.jpg; sourceTree = "<group>"; };
+		1FCB63C1251F6F1200AB7A6C /* Edinburgh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Edinburgh.jpg; sourceTree = "<group>"; };
+		1FCB63C2251F6F1200AB7A6C /* SaoPaulo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SaoPaulo.jpg; sourceTree = "<group>"; };
+		1FCB63C3251F6F1200AB7A6C /* Nagoya.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nagoya.jpg; sourceTree = "<group>"; };
+		1FCB63C4251F6F1200AB7A6C /* Chongqing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Chongqing.jpg; sourceTree = "<group>"; };
+		1FCB63C5251F6F1200AB7A6C /* Hualien.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Hualien.jpg; sourceTree = "<group>"; };
+		1FCB63C6251F6F1200AB7A6C /* Kaohsiung.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kaohsiung.jpg; sourceTree = "<group>"; };
+		1FCB63C7251F6F1200AB7A6C /* Milan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Milan.jpg; sourceTree = "<group>"; };
+		1FCB63C8251F6F1200AB7A6C /* Salvador.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Salvador.jpg; sourceTree = "<group>"; };
+		1FCB63C9251F6F1200AB7A6C /* Boston.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Boston.jpg; sourceTree = "<group>"; };
+		1FCB63CA251F6F1200AB7A6C /* Canberra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Canberra.jpg; sourceTree = "<group>"; };
+		1FCB63CB251F6F1200AB7A6C /* Florence.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Florence.jpg; sourceTree = "<group>"; };
+		1FCB63CC251F6F1200AB7A6C /* Cologne.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Cologne.jpg; sourceTree = "<group>"; };
+		1FCB63CD251F6F1200AB7A6C /* Wuhan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Wuhan.jpg; sourceTree = "<group>"; };
+		1FCB63CE251F6F1200AB7A6C /* Westminster.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Westminster.jpg; sourceTree = "<group>"; };
+		1FCB63CF251F6F1200AB7A6C /* Shinjuku.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Shinjuku.jpg; sourceTree = "<group>"; };
+		1FCB63D0251F6F1200AB7A6C /* Sydney.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sydney.jpg; sourceTree = "<group>"; };
+		1FCB63D1251F6F1200AB7A6C /* Tokyo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Tokyo.jpg; sourceTree = "<group>"; };
+		1FCB63D2251F6F1200AB7A6C /* Liverpool.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Liverpool.jpg; sourceTree = "<group>"; };
+		1FCB63D3251F6F1200AB7A6C /* Leeds.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Leeds.jpg; sourceTree = "<group>"; };
+		1FCB63D4251F6F1200AB7A6C /* Wellington.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Wellington.jpg; sourceTree = "<group>"; };
+		1FCB63D5251F6F1200AB7A6C /* NewYork.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = NewYork.jpg; sourceTree = "<group>"; };
+		1FCB63D6251F6F1200AB7A6C /* Vancouver.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Vancouver.jpg; sourceTree = "<group>"; };
+		1FCB63D7251F6F1200AB7A6C /* Marseille.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Marseille.jpg; sourceTree = "<group>"; };
+		1FCB63D8251F6F1200AB7A6C /* Lyon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lyon.jpg; sourceTree = "<group>"; };
+		1FCB63D9251F6F1200AB7A6C /* Frankfurt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Frankfurt.jpg; sourceTree = "<group>"; };
+		1FCB63DA251F6F1200AB7A6C /* KualaLumpur.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = KualaLumpur.jpg; sourceTree = "<group>"; };
+		1FCB63DB251F6F1200AB7A6C /* SanFrancisco.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SanFrancisco.jpg; sourceTree = "<group>"; };
+		1FCB63DC251F6F1200AB7A6C /* Madrid.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Madrid.jpg; sourceTree = "<group>"; };
+		1FCB63DD251F6F1200AB7A6C /* Philadelphia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Philadelphia.jpg; sourceTree = "<group>"; };
+		1FCB63DE251F6F1200AB7A6C /* Toronto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Toronto.jpg; sourceTree = "<group>"; };
+		1FCB63DF251F6F1200AB7A6C /* Cupertino.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Cupertino.jpg; sourceTree = "<group>"; };
+		1FCB63E0251F6F1200AB7A6C /* Sapporo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sapporo.jpg; sourceTree = "<group>"; };
+		1FCB63E1251F6F1200AB7A6C /* Yokohama.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Yokohama.jpg; sourceTree = "<group>"; };
+		1FCB63E2251F6F1200AB7A6C /* Meguro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Meguro.jpg; sourceTree = "<group>"; };
+		1FCB63E3251F6F1200AB7A6C /* RioDeJaneiro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = RioDeJaneiro.jpg; sourceTree = "<group>"; };
+		1FCB63E4251F6F1200AB7A6C /* Singapore.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Singapore.jpg; sourceTree = "<group>"; };
+		1FCB63E5251F6F1200AB7A6C /* Manchester.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Manchester.jpg; sourceTree = "<group>"; };
+		1FCB63E6251F6F1200AB7A6C /* Miami.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Miami.jpg; sourceTree = "<group>"; };
+		1FCB63E7251F6F1200AB7A6C /* HongKong.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = HongKong.jpg; sourceTree = "<group>"; };
+		1FCB63E8251F6F1200AB7A6C /* Hamburg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Hamburg.jpg; sourceTree = "<group>"; };
+		1FCB63E9251F6F1200AB7A6C /* Narita.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Narita.jpg; sourceTree = "<group>"; };
+		1FCB63EA251F6F1200AB7A6C /* Kyoto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kyoto.jpg; sourceTree = "<group>"; };
+		1FCB63EB251F6F1200AB7A6C /* Taipei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Taipei.jpg; sourceTree = "<group>"; };
+		1FCB6440251F6FE700AB7A6C /* ModuleBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModuleBundle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,10 +241,8 @@
 		1F6DD6CD251F28E70084DDA7 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
-				1F6DD6CE251F28E70084DDA7 /* states.plist */,
-				1FCB634E251F355000AB7A6C /* sortednames.plist */,
-				1FCB6366251F3D5100AB7A6C /* presidents.plist */,
-				1FCB635E251F385500AB7A6C /* cities.plist */,
+				1FCB6399251F6F1200AB7A6C /* Image */,
+				1FCB6398251F6F0500AB7A6C /* Plist */,
 			);
 			path = Resource;
 			sourceTree = "<group>";
@@ -89,13 +251,129 @@
 			isa = PBXGroup;
 			children = (
 				1FCB6346251F31FF00AB7A6C /* Extensions.swift */,
+				1FCB643E251F6FBE00AB7A6C /* DataSource */,
+				1FCB6440251F6FE700AB7A6C /* ModuleBundle.swift */,
+			);
+			path = SourceCode;
+			sourceTree = "<group>";
+		};
+		1FCB6398251F6F0500AB7A6C /* Plist */ = {
+			isa = PBXGroup;
+			children = (
+				1F6DD6CE251F28E70084DDA7 /* states.plist */,
+				1FCB634E251F355000AB7A6C /* sortednames.plist */,
+				1FCB6366251F3D5100AB7A6C /* presidents.plist */,
+				1FCB635E251F385500AB7A6C /* cities.plist */,
+			);
+			path = Plist;
+			sourceTree = "<group>";
+		};
+		1FCB6399251F6F1200AB7A6C /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				1FCB639A251F6F1200AB7A6C /* City */,
+			);
+			path = Image;
+			sourceTree = "<group>";
+		};
+		1FCB639A251F6F1200AB7A6C /* City */ = {
+			isa = PBXGroup;
+			children = (
+				1FCB639B251F6F1200AB7A6C /* Montreal.jpg */,
+				1FCB639C251F6F1200AB7A6C /* Houston.jpg */,
+				1FCB639D251F6F1200AB7A6C /* MountainView.jpg */,
+				1FCB639E251F6F1200AB7A6C /* Shenyang.jpg */,
+				1FCB639F251F6F1200AB7A6C /* Paris.jpg */,
+				1FCB63A0251F6F1200AB7A6C /* Munich.jpg */,
+				1FCB63A1251F6F1200AB7A6C /* Shanghai.jpg */,
+				1FCB63A2251F6F1200AB7A6C /* Shibuya.jpg */,
+				1FCB63A3251F6F1200AB7A6C /* Victoria.jpg */,
+				1FCB63A4251F6F1200AB7A6C /* Birmingham.jpg */,
+				1FCB63A5251F6F1200AB7A6C /* Chiba.jpg */,
+				1FCB63A6251F6F1200AB7A6C /* Ginza.jpg */,
+				1FCB63A7251F6F1200AB7A6C /* Seattle.jpg */,
+				1FCB63A8251F6F1200AB7A6C /* Osaka.jpg */,
+				1FCB63A9251F6F1200AB7A6C /* Tainan.jpg */,
+				1FCB63AA251F6F1200AB7A6C /* Taichung.jpg */,
+				1FCB63AB251F6F1200AB7A6C /* Nanjing.jpg */,
+				1FCB63AC251F6F1200AB7A6C /* Sumida.jpg */,
+				1FCB63AD251F6F1200AB7A6C /* Akihabara.jpg */,
+				1FCB63AE251F6F1200AB7A6C /* Kobe.jpg */,
+				1FCB63AF251F6F1200AB7A6C /* Washington.jpg */,
+				1FCB63B0251F6F1200AB7A6C /* Tianjin.jpg */,
+				1FCB63B1251F6F1200AB7A6C /* Wells.jpg */,
+				1FCB63B2251F6F1200AB7A6C /* Beijing.jpg */,
+				1FCB63B3251F6F1200AB7A6C /* London.jpg */,
+				1FCB63B4251F6F1200AB7A6C /* LosAngeles.jpg */,
+				1FCB63B5251F6F1200AB7A6C /* PaloAlto.jpg */,
+				1FCB63B6251F6F1200AB7A6C /* Berlin.jpg */,
+				1FCB63B7251F6F1200AB7A6C /* BuenosAires.jpg */,
+				1FCB63B8251F6F1200AB7A6C /* Chicago.jpg */,
+				1FCB63B9251F6F1200AB7A6C /* Oxford.jpg */,
+				1FCB63BA251F6F1200AB7A6C /* Auckland.jpg */,
+				1FCB63BB251F6F1200AB7A6C /* Rome.jpg */,
+				1FCB63BC251F6F1200AB7A6C /* Ikebukuro.jpg */,
+				1FCB63BD251F6F1200AB7A6C /* Barcelona.jpg */,
+				1FCB63BE251F6F1200AB7A6C /* Guangzhou.jpg */,
+				1FCB63BF251F6F1200AB7A6C /* Ueno.jpg */,
+				1FCB63C0251F6F1200AB7A6C /* Shinagawa.jpg */,
+				1FCB63C1251F6F1200AB7A6C /* Edinburgh.jpg */,
+				1FCB63C2251F6F1200AB7A6C /* SaoPaulo.jpg */,
+				1FCB63C3251F6F1200AB7A6C /* Nagoya.jpg */,
+				1FCB63C4251F6F1200AB7A6C /* Chongqing.jpg */,
+				1FCB63C5251F6F1200AB7A6C /* Hualien.jpg */,
+				1FCB63C6251F6F1200AB7A6C /* Kaohsiung.jpg */,
+				1FCB63C7251F6F1200AB7A6C /* Milan.jpg */,
+				1FCB63C8251F6F1200AB7A6C /* Salvador.jpg */,
+				1FCB63C9251F6F1200AB7A6C /* Boston.jpg */,
+				1FCB63CA251F6F1200AB7A6C /* Canberra.jpg */,
+				1FCB63CB251F6F1200AB7A6C /* Florence.jpg */,
+				1FCB63CC251F6F1200AB7A6C /* Cologne.jpg */,
+				1FCB63CD251F6F1200AB7A6C /* Wuhan.jpg */,
+				1FCB63CE251F6F1200AB7A6C /* Westminster.jpg */,
+				1FCB63CF251F6F1200AB7A6C /* Shinjuku.jpg */,
+				1FCB63D0251F6F1200AB7A6C /* Sydney.jpg */,
+				1FCB63D1251F6F1200AB7A6C /* Tokyo.jpg */,
+				1FCB63D2251F6F1200AB7A6C /* Liverpool.jpg */,
+				1FCB63D3251F6F1200AB7A6C /* Leeds.jpg */,
+				1FCB63D4251F6F1200AB7A6C /* Wellington.jpg */,
+				1FCB63D5251F6F1200AB7A6C /* NewYork.jpg */,
+				1FCB63D6251F6F1200AB7A6C /* Vancouver.jpg */,
+				1FCB63D7251F6F1200AB7A6C /* Marseille.jpg */,
+				1FCB63D8251F6F1200AB7A6C /* Lyon.jpg */,
+				1FCB63D9251F6F1200AB7A6C /* Frankfurt.jpg */,
+				1FCB63DA251F6F1200AB7A6C /* KualaLumpur.jpg */,
+				1FCB63DB251F6F1200AB7A6C /* SanFrancisco.jpg */,
+				1FCB63DC251F6F1200AB7A6C /* Madrid.jpg */,
+				1FCB63DD251F6F1200AB7A6C /* Philadelphia.jpg */,
+				1FCB63DE251F6F1200AB7A6C /* Toronto.jpg */,
+				1FCB63DF251F6F1200AB7A6C /* Cupertino.jpg */,
+				1FCB63E0251F6F1200AB7A6C /* Sapporo.jpg */,
+				1FCB63E1251F6F1200AB7A6C /* Yokohama.jpg */,
+				1FCB63E2251F6F1200AB7A6C /* Meguro.jpg */,
+				1FCB63E3251F6F1200AB7A6C /* RioDeJaneiro.jpg */,
+				1FCB63E4251F6F1200AB7A6C /* Singapore.jpg */,
+				1FCB63E5251F6F1200AB7A6C /* Manchester.jpg */,
+				1FCB63E6251F6F1200AB7A6C /* Miami.jpg */,
+				1FCB63E7251F6F1200AB7A6C /* HongKong.jpg */,
+				1FCB63E8251F6F1200AB7A6C /* Hamburg.jpg */,
+				1FCB63E9251F6F1200AB7A6C /* Narita.jpg */,
+				1FCB63EA251F6F1200AB7A6C /* Kyoto.jpg */,
+				1FCB63EB251F6F1200AB7A6C /* Taipei.jpg */,
+			);
+			path = City;
+			sourceTree = "<group>";
+		};
+		1FCB643E251F6FBE00AB7A6C /* DataSource */ = {
+			isa = PBXGroup;
+			children = (
 				1F6DD6D0251F28E70084DDA7 /* DataSource.swift */,
 				1FCB630E251F305300AB7A6C /* StateDataSource.swift */,
 				1FCB6351251F356E00AB7A6C /* SortedNameDataSource.swift */,
 				1FCB6362251F38B500AB7A6C /* PresidentDataSource.swift */,
 				1FCB6369251F3D8A00AB7A6C /* CityDataSource.swift */,
 			);
-			path = SourceCode;
+			path = DataSource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -166,10 +444,91 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1FCB6431251F6F1300AB7A6C /* Sapporo.jpg in Resources */,
+				1FCB63EF251F6F1200AB7A6C /* Shenyang.jpg in Resources */,
+				1FCB6406251F6F1200AB7A6C /* PaloAlto.jpg in Resources */,
+				1FCB6425251F6F1200AB7A6C /* Wellington.jpg in Resources */,
+				1FCB642A251F6F1300AB7A6C /* Frankfurt.jpg in Resources */,
+				1FCB6437251F6F1300AB7A6C /* Miami.jpg in Resources */,
+				1FCB63FA251F6F1200AB7A6C /* Tainan.jpg in Resources */,
+				1FCB63FB251F6F1200AB7A6C /* Taichung.jpg in Resources */,
+				1FCB6438251F6F1300AB7A6C /* HongKong.jpg in Resources */,
+				1FCB640E251F6F1200AB7A6C /* Barcelona.jpg in Resources */,
+				1FCB6435251F6F1300AB7A6C /* Singapore.jpg in Resources */,
+				1FCB6412251F6F1200AB7A6C /* Edinburgh.jpg in Resources */,
+				1FCB63FC251F6F1200AB7A6C /* Nanjing.jpg in Resources */,
+				1FCB640D251F6F1200AB7A6C /* Ikebukuro.jpg in Resources */,
+				1FCB63F8251F6F1200AB7A6C /* Seattle.jpg in Resources */,
+				1FCB63F7251F6F1200AB7A6C /* Ginza.jpg in Resources */,
+				1FCB6403251F6F1200AB7A6C /* Beijing.jpg in Resources */,
+				1FCB640C251F6F1200AB7A6C /* Rome.jpg in Resources */,
+				1FCB63EE251F6F1200AB7A6C /* MountainView.jpg in Resources */,
+				1FCB6416251F6F1200AB7A6C /* Hualien.jpg in Resources */,
 				1FCB635F251F385500AB7A6C /* cities.plist in Resources */,
+				1FCB63FF251F6F1200AB7A6C /* Kobe.jpg in Resources */,
+				1FCB6420251F6F1200AB7A6C /* Shinjuku.jpg in Resources */,
+				1FCB63FE251F6F1200AB7A6C /* Akihabara.jpg in Resources */,
+				1FCB6409251F6F1200AB7A6C /* Chicago.jpg in Resources */,
+				1FCB641E251F6F1200AB7A6C /* Wuhan.jpg in Resources */,
+				1FCB6424251F6F1200AB7A6C /* Leeds.jpg in Resources */,
+				1FCB63F9251F6F1200AB7A6C /* Osaka.jpg in Resources */,
+				1FCB63F2251F6F1200AB7A6C /* Shanghai.jpg in Resources */,
+				1FCB6418251F6F1200AB7A6C /* Milan.jpg in Resources */,
+				1FCB641D251F6F1200AB7A6C /* Cologne.jpg in Resources */,
+				1FCB641C251F6F1200AB7A6C /* Florence.jpg in Resources */,
+				1FCB6404251F6F1200AB7A6C /* London.jpg in Resources */,
+				1FCB6417251F6F1200AB7A6C /* Kaohsiung.jpg in Resources */,
+				1FCB6400251F6F1200AB7A6C /* Washington.jpg in Resources */,
+				1FCB6432251F6F1300AB7A6C /* Yokohama.jpg in Resources */,
+				1FCB6423251F6F1200AB7A6C /* Liverpool.jpg in Resources */,
+				1FCB6408251F6F1200AB7A6C /* BuenosAires.jpg in Resources */,
+				1FCB6436251F6F1300AB7A6C /* Manchester.jpg in Resources */,
+				1FCB63F4251F6F1200AB7A6C /* Victoria.jpg in Resources */,
+				1FCB6413251F6F1200AB7A6C /* SaoPaulo.jpg in Resources */,
+				1FCB6405251F6F1200AB7A6C /* LosAngeles.jpg in Resources */,
+				1FCB6439251F6F1300AB7A6C /* Hamburg.jpg in Resources */,
+				1FCB6414251F6F1200AB7A6C /* Nagoya.jpg in Resources */,
+				1FCB6430251F6F1300AB7A6C /* Cupertino.jpg in Resources */,
+				1FCB6421251F6F1200AB7A6C /* Sydney.jpg in Resources */,
+				1FCB63F0251F6F1200AB7A6C /* Paris.jpg in Resources */,
+				1FCB63EC251F6F1200AB7A6C /* Montreal.jpg in Resources */,
+				1FCB63F5251F6F1200AB7A6C /* Birmingham.jpg in Resources */,
+				1FCB6407251F6F1200AB7A6C /* Berlin.jpg in Resources */,
+				1FCB6411251F6F1200AB7A6C /* Shinagawa.jpg in Resources */,
+				1FCB6426251F6F1200AB7A6C /* NewYork.jpg in Resources */,
 				1FCB634F251F355000AB7A6C /* sortednames.plist in Resources */,
+				1FCB6419251F6F1200AB7A6C /* Salvador.jpg in Resources */,
+				1FCB640F251F6F1200AB7A6C /* Guangzhou.jpg in Resources */,
+				1FCB6422251F6F1200AB7A6C /* Tokyo.jpg in Resources */,
+				1FCB641B251F6F1200AB7A6C /* Canberra.jpg in Resources */,
+				1FCB6402251F6F1200AB7A6C /* Wells.jpg in Resources */,
+				1FCB643B251F6F1300AB7A6C /* Kyoto.jpg in Resources */,
+				1FCB6415251F6F1200AB7A6C /* Chongqing.jpg in Resources */,
+				1FCB641F251F6F1200AB7A6C /* Westminster.jpg in Resources */,
 				1F6DD6D1251F28E70084DDA7 /* states.plist in Resources */,
+				1FCB63F1251F6F1200AB7A6C /* Munich.jpg in Resources */,
+				1FCB642E251F6F1300AB7A6C /* Philadelphia.jpg in Resources */,
+				1FCB6427251F6F1300AB7A6C /* Vancouver.jpg in Resources */,
+				1FCB642C251F6F1300AB7A6C /* SanFrancisco.jpg in Resources */,
+				1FCB640A251F6F1200AB7A6C /* Oxford.jpg in Resources */,
+				1FCB63ED251F6F1200AB7A6C /* Houston.jpg in Resources */,
+				1FCB640B251F6F1200AB7A6C /* Auckland.jpg in Resources */,
+				1FCB6434251F6F1300AB7A6C /* RioDeJaneiro.jpg in Resources */,
+				1FCB6428251F6F1300AB7A6C /* Marseille.jpg in Resources */,
+				1FCB6433251F6F1300AB7A6C /* Meguro.jpg in Resources */,
+				1FCB643A251F6F1300AB7A6C /* Narita.jpg in Resources */,
+				1FCB643C251F6F1300AB7A6C /* Taipei.jpg in Resources */,
+				1FCB642D251F6F1300AB7A6C /* Madrid.jpg in Resources */,
+				1FCB6410251F6F1200AB7A6C /* Ueno.jpg in Resources */,
+				1FCB642F251F6F1300AB7A6C /* Toronto.jpg in Resources */,
+				1FCB641A251F6F1200AB7A6C /* Boston.jpg in Resources */,
+				1FCB642B251F6F1300AB7A6C /* KualaLumpur.jpg in Resources */,
 				1FCB6367251F3D5100AB7A6C /* presidents.plist in Resources */,
+				1FCB63F6251F6F1200AB7A6C /* Chiba.jpg in Resources */,
+				1FCB6401251F6F1200AB7A6C /* Tianjin.jpg in Resources */,
+				1FCB63FD251F6F1200AB7A6C /* Sumida.jpg in Resources */,
+				1FCB63F3251F6F1200AB7A6C /* Shibuya.jpg in Resources */,
+				1FCB6429251F6F1300AB7A6C /* Lyon.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -185,6 +544,7 @@
 				1FCB6363251F38B500AB7A6C /* PresidentDataSource.swift in Sources */,
 				1F6DD6D2251F28E70084DDA7 /* DataSource.swift in Sources */,
 				1FCB6352251F356E00AB7A6C /* SortedNameDataSource.swift in Sources */,
+				1FCB6441251F6FE700AB7A6C /* ModuleBundle.swift in Sources */,
 				1FCB6347251F31FF00AB7A6C /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
