@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name          = "iOS_Section2_Core"
-  spec.version       = "0.0.4"
+  spec.version       = "0.0.5"
   spec.summary       = "巨匠課程第二階"
   spec.description   = <<-DESC
   此為課程範例函式庫，目的在於快速集成資源檔案，而對於學員因為沒有參與到線上課程，也可避免事後補課時查找素材檔案的麻煩。
@@ -12,7 +12,9 @@ Pod::Spec.new do |spec|
   spec.platform      = :ios, "10.0"
   spec.swift_version = "5.0"
   spec.source        = { :git => "https://github.com/jeff-gjun/ios_section2_core.git", :tag => "#{spec.version}" }
+  # spec.source        = { :http => 'file:' + "/Users/jeff/Developer/iOSProject/Gjun/iOS-Section2-Core" }
   spec.source_files  = "iOS-Section2-Core/SourceCode/**/*.{swift}", "iOS-Section2-Core/Resource/**/*.{plist}"
   spec.resources     = "iOS-Section2-Core/Resource/**/*.{jpg}"
+  spec.resource_bundles = {"Assets" => ["iOS-Section2-Core/Resource/Asset/*.xcassets"]}
 
 end

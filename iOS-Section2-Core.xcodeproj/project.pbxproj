@@ -100,6 +100,8 @@
 		1FCB643B251F6F1300AB7A6C /* Kyoto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63EA251F6F1200AB7A6C /* Kyoto.jpg */; };
 		1FCB643C251F6F1300AB7A6C /* Taipei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FCB63EB251F6F1200AB7A6C /* Taipei.jpg */; };
 		1FCB6441251F6FE700AB7A6C /* ModuleBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FCB6440251F6FE700AB7A6C /* ModuleBundle.swift */; };
+		1FD4655D25495F2C0050359E /* Analytics.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1FD4655C25495F2C0050359E /* Analytics.xcassets */; };
+		1FD4656025495F7E0050359E /* RealTimeDatabase.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1FD4655F25495F7E0050359E /* RealTimeDatabase.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -198,6 +200,8 @@
 		1FCB63EA251F6F1200AB7A6C /* Kyoto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kyoto.jpg; sourceTree = "<group>"; };
 		1FCB63EB251F6F1200AB7A6C /* Taipei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Taipei.jpg; sourceTree = "<group>"; };
 		1FCB6440251F6FE700AB7A6C /* ModuleBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModuleBundle.swift; sourceTree = "<group>"; };
+		1FD4655C25495F2C0050359E /* Analytics.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Analytics.xcassets; sourceTree = "<group>"; };
+		1FD4655F25495F7E0050359E /* RealTimeDatabase.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = RealTimeDatabase.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -211,6 +215,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1F23303B254944C4002E0624 /* Asset */ = {
+			isa = PBXGroup;
+			children = (
+				1FD4655C25495F2C0050359E /* Analytics.xcassets */,
+				1FD4655F25495F7E0050359E /* RealTimeDatabase.xcassets */,
+			);
+			path = Asset;
+			sourceTree = "<group>";
+		};
 		1F6DD6B7251F28DD0084DDA7 = {
 			isa = PBXGroup;
 			children = (
@@ -241,6 +254,7 @@
 		1F6DD6CD251F28E70084DDA7 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
+				1F23303B254944C4002E0624 /* Asset */,
 				1FCB6399251F6F1200AB7A6C /* Image */,
 				1FCB6398251F6F0500AB7A6C /* Plist */,
 			);
@@ -449,6 +463,7 @@
 				1FCB6406251F6F1200AB7A6C /* PaloAlto.jpg in Resources */,
 				1FCB6425251F6F1200AB7A6C /* Wellington.jpg in Resources */,
 				1FCB642A251F6F1300AB7A6C /* Frankfurt.jpg in Resources */,
+				1FD4656025495F7E0050359E /* RealTimeDatabase.xcassets in Resources */,
 				1FCB6437251F6F1300AB7A6C /* Miami.jpg in Resources */,
 				1FCB63FA251F6F1200AB7A6C /* Tainan.jpg in Resources */,
 				1FCB63FB251F6F1200AB7A6C /* Taichung.jpg in Resources */,
@@ -471,6 +486,7 @@
 				1FCB6409251F6F1200AB7A6C /* Chicago.jpg in Resources */,
 				1FCB641E251F6F1200AB7A6C /* Wuhan.jpg in Resources */,
 				1FCB6424251F6F1200AB7A6C /* Leeds.jpg in Resources */,
+				1FD4655D25495F2C0050359E /* Analytics.xcassets in Resources */,
 				1FCB63F9251F6F1200AB7A6C /* Osaka.jpg in Resources */,
 				1FCB63F2251F6F1200AB7A6C /* Shanghai.jpg in Resources */,
 				1FCB6418251F6F1200AB7A6C /* Milan.jpg in Resources */,
@@ -689,9 +705,11 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.jeff.iOS-Section2-Core";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -712,9 +730,11 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.jeff.iOS-Section2-Core";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
